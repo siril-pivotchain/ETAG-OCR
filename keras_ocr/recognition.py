@@ -71,6 +71,22 @@ PRETRAINED_WEIGHTS = {
                 'sha256': '00178a3ed1e5d1585bdf26252d35a4c03716963c9b2f868b733fe41b718c350e'
             }
         }
+    },
+    'etag_2': {
+        'alphabet': DEFAULT_ALPHABET,
+        'build_params': DEFAULT_BUILD_PARAMS,
+        'weights': {
+            'notop': {
+                'url': 'https://drive.google.com/uc?export=download&id=1mqYCyUD1cJzsCbYLzBUYYZ3-1VoPopOZ',
+                'filename': 'recognizer_etag_detect.h5',
+                'sha256': 'fc9f8acfdfe5a3a5dd4880a2bb4a3d0ce353c1469dda507a41faaf52d4dc3afc'
+            },
+            'top': {
+                'url': 'https://drive.google.com/uc?export=download&id=1mqYCyUD1cJzsCbYLzBUYYZ3-1VoPopOZ',
+                'filename': 'recognizer_etag_detect.h5',
+                'sha256': 'fc9f8acfdfe5a3a5dd4880a2bb4a3d0ce353c1469dda507a41faaf52d4dc3afc'
+            }
+        }
     }
 }
 
